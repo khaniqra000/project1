@@ -1,0 +1,12 @@
+.container{
+    color: aqua;
+    background-color: rgb(7, 112, 203);
+    font-size: small;
+}
+
+.header{
+    color: rgb(1, 15, 15);
+    background-color: rgb(173, 87, 21);
+    font-size: large;
+
+}
